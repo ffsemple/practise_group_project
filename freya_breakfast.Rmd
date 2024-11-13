@@ -4,4 +4,5 @@ author: "Freya"
 date: "2024-11-13"
 output: html_document
 ---
-I had a croissant for brakefast 
+I had a croissant for breakfast 
+With a cup of tea
