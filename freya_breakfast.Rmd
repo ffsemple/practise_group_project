@@ -6,4 +6,4 @@ output: html_document
 ---
 I had a croissant for breakfast 
 With a cup of tea
-Tody was frezing cold 
+Today was freezing cold 
